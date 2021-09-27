@@ -1,0 +1,213 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@media (min-width: 1281px) {
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .contact-item{
+        width: 100% !important;
+    }
+    .form-floating{
+        width: 100% !important;
+    }
+    .email-secccc{
+        width: 100%;
+    }
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+        margin-top: 29px;
+    }
+  
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .contact-item{
+        width: 100% !important;
+    }
+    .form-floating{
+        width: 100% !important;
+    }
+    .email-secccc{
+        width: 100%;
+    }
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+        margin-top: 29px;
+    }
+  
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .contact-item{
+        width: 100% !important;
+    }
+    .form-floating{
+        width: 100% !important;
+    }
+    .email-secccc{
+        width: 100%;
+    }
+    .bttttn{
+        margin-top: 10px;
+    }
+
+    
+.slider-section{
+    background-image: url(https://i.ibb.co/C6ghsNJ/mbr-10.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding:150px 0;
+    position: relative;
+    z-index: 1;
+}
+.prizing-weight-2 {
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 29px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .contact-item{
+        width: 100% !important;
+    }
+    .form-floating{
+        width: 100% !important;
+    }
+    .email-secccc{
+        width: 100%;
+    }
+    .bttttn{
+        margin-top: 10px;
+    }
+       
+.slider-section{
+    background-image: url(https://i.ibb.co/C6ghsNJ/mbr-10.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding:150px 0;
+    position: relative;
+    z-index: 1;
+}
+.prizing-weight-2 {
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 29px;
+}
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .contact-item{
+        width: 100% !important;
+    }
+    .form-floating{
+        width: 100% !important;
+    }
+    .email-secccc{
+        width: 100%;
+    }
+    .bttttn{
+        margin-top: 10px;
+    }
+       
+.slider-section{
+    background-image: url(https://i.ibb.co/C6ghsNJ/mbr-10.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding:150px 0;
+    position: relative;
+    z-index: 1;
+}
+.prizing-weight-2 {
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 29px;
+}
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .contact-item{
+        width: 100% !important;
+    }
+    .form-floating{
+        width: 100% !important;
+    }
+    .email-secccc{
+        width: 100%;
+    }
+    .bttttn{
+        margin-top: 10px;
+    }
+   
+    .slider-section{
+        background-image: url(https://i.ibb.co/C6ghsNJ/mbr-10.jpg);
+        background-size: cover;
+        background-position: center center;
+        padding:150px 0;
+        position: relative;
+        z-index: 1;
+    }
+    .prizing-weight-2 {
+        width: 100%;
+        margin-left: 20px;
+        margin-top: 29px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1068px) {
+    
+}
+
+@media (max-width: 868px) {
+    
+}
+@media (max-width: 668px) {
+    
+}
+@media (max-width: 468px) {
+    
+}
+@media () (max-width: 368px) {
+    
+}
